@@ -6,7 +6,7 @@ Thành viên:
 * [x] **1412558** Phạm Quốc Toàn (tên tài khoản github)
 * [x] **1412657** Nguyễn Tường Vy (1412657)
 
-URL: **Link github page**
+URL: **https://github.com/1412657/1412657.github.io**
 
 ## Yêu cầu
 
@@ -24,19 +24,19 @@ Yêu cầu **bắt buộc**
 * [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
-* [x]1. Giới thiệu chung:
+* [x]   1. Giới thiệu chung:
 * [x]   Ngôn ngữ lập trình GoLang  
 * [x]   Mô hình MVC
 * [x]   Revel Framework
-* [x]2. Controller
-* [x]3. URL
+* [x]   2. Controller
+* [x]   3. URL
 * [x]   URL Router
 * [x]   Đường dẫn cố định
 * [x]   Tham số URL
 * [x]   Tham số gắn dấu sao
 * [x]   Tham số yêu cầu và  ràng buộc
-* [x]4. Result và Response
-* [x]5. Template
+* [x]   4. Result và Response
+* [x]   5. Template
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [ ] Chức năng 1
