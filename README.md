@@ -3,7 +3,7 @@
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
-* [x] **1412558** Phạm Quốc Toàn (tên tài khoản github)
+* [x] **1412558** Phạm Quốc Toàn (yamakuga)
 * [x] **1412657** Nguyễn Tường Vy (1412657)
 
 URL: **https://github.com/1412657/1412657.github.io**
